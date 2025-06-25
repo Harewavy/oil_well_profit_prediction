@@ -1,11 +1,11 @@
-# 🛢️ Oil Well Profit Prediction
+# Oil Well Profit Prediction
 
 This machine learning project helps **OilyGiant**, a mining company, determine the most profitable region to develop a new oil well.  
 By using linear regression and risk analysis with **bootstrapping**, the goal is to identify the region with the highest expected profit and acceptable risk level.
 
 ---
 
-## 📁 Datasets
+## Datasets
 
 - `geo_data_0.csv`
 - `geo_data_1.csv`
@@ -18,7 +18,7 @@ By using linear regression and risk analysis with **bootstrapping**, the goal is
 
 ---
 
-## 🧰 Tools & Libraries
+## Tools & Libraries
 
 - Python
 - pandas, numpy
@@ -28,7 +28,7 @@ By using linear regression and risk analysis with **bootstrapping**, the goal is
 
 ---
 
-## 📊 Project Workflow
+## Project Workflow
 
 1. Loaded and explored data from three regions
 2. Trained a linear regression model for each region
@@ -43,7 +43,7 @@ By using linear regression and risk analysis with **bootstrapping**, the goal is
 
 ---
 
-## 💰 Business Constraints
+## Business Constraints
 
 - 200 wells selected for development
 - Development budget: $100 million
@@ -53,7 +53,7 @@ By using linear regression and risk analysis with **bootstrapping**, the goal is
 
 ---
 
-## ✅ Key Findings
+## Key Findings
 
 - One region had a strong balance of high profit and low risk.
 - Bootstrapping confirmed the expected profit and loss boundaries.
@@ -61,7 +61,7 @@ By using linear regression and risk analysis with **bootstrapping**, the goal is
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository
 2. Ensure all `geo_data_*.csv` files are in the same directory as the notebook
@@ -70,7 +70,7 @@ By using linear regression and risk analysis with **bootstrapping**, the goal is
 
 ---
 
-## 🔗 Links
+## Links
 
 - [My LinkedIn](https://www.linkedin.com/in/ozturkkenes)
 - [My GitHub](https://github.com/Harewavy)
